@@ -1,0 +1,174 @@
+﻿{
+    "site_content":  [
+                         {
+                             "content_key":  "clinic_name",
+                             "content_value":  "Galam Pedia \u0026 OB Clinic"
+                         },
+                         {
+                             "content_key":  "clinic_tagline",
+                             "content_value":  "Your Health, Our Priority"
+                         },
+                         {
+                             "content_key":  "clinic_intro",
+                             "content_value":  "Galam Pedia \u0026 Ob Clinic is a trusted medical facility dedicated to providing exceptional healthcare services for families. With experienced pediatric and OB-GYN specialists, we deliver compassionate, patient-centered care in a modern, welcoming environment."
+                         },
+                         {
+                             "content_key":  "clinic_history",
+                             "content_value":  "Founded in 2010, Galam Pedia \u0026 Ob Clinic has grown from a small family practice into a comprehensive healthcare center serving thousands of patients in our community. Our commitment to excellence and patient satisfaction has made us a preferred choice for families seeking quality medical care."
+                         },
+                         {
+                             "content_key":  "clinic_mission",
+                             "content_value":  "To provide accessible, high-quality healthcare services that improve the health and well-being of every patient we serve, with compassion, integrity, and excellence."
+                         },
+                         {
+                             "content_key":  "clinic_vision",
+                             "content_value":  "To be the leading community healthcare clinic recognized for outstanding patient care, innovative medical practices, and a commitment to healthier families."
+                         },
+                         {
+                             "content_key":  "clinic_why_choose",
+                             "content_value":  "Experienced specialists, modern facilities, patient-centered approach, convenient online booking, and a warm, family-friendly environment."
+                         },
+                         {
+                             "content_key":  "clinic_facilities",
+                             "content_value":  "State-of-the-art examination rooms, digital diagnostic equipment, comfortable waiting areas, private consultation rooms, and child-friendly pediatric spaces."
+                         },
+                         {
+                             "content_key":  "clinic_patient_centered",
+                             "content_value":  "We believe every patient deserves personalized attention. Our team takes time to listen, explain treatment options clearly, and involve patients in their healthcare decisions."
+                         },
+                         {
+                             "content_key":  "clinic_address",
+                             "content_value":  "Bontoc Southern Leyte"
+                         },
+                         {
+                             "content_key":  "clinic_phone",
+                             "content_value":  "+63 (2) 7632-9028"
+                         },
+                         {
+                             "content_key":  "clinic_email",
+                             "content_value":  "galam_clinic@health.com"
+                         },
+                         {
+                             "content_key":  "clinic_hours",
+                             "content_value":  "Monday - Friday: 8:00 AM - 6:00 PM\r\nSaturday: 9:00 AM - 1:00 PM\r\nSunday: Closed"
+                         },
+                         {
+                             "content_key":  "clinic_emergency",
+                             "content_value":  "+63 (2) 5212-5621"
+                         },
+                         {
+                             "content_key":  "map_embed",
+                             "content_value":  "https://maps.google.com/maps?q=Bontoc+Southern+Leyte\u0026hl=en\u0026z=15\u0026output=embed"
+                         },
+                         {
+                             "content_key":  "years_experience",
+                             "content_value":  "15"
+                         },
+                         {
+                             "content_key":  "happy_patients",
+                             "content_value":  "5000"
+                         },
+                         {
+                             "content_key":  "successful_consultations",
+                             "content_value":  "12000"
+                         },
+                         {
+                             "content_key":  "hero_image",
+                             "content_value":  "hero-bg.jpg"
+                         },
+                         {
+                             "content_key":  "pediatric_title",
+                             "content_value":  "Pediatric Services"
+                         },
+                         {
+                             "content_key":  "pediatric_description",
+                             "content_value":  "Comprehensive healthcare for infants, children, and adolescents"
+                         },
+                         {
+                             "content_key":  "pediatric_services",
+                             "content_value":  "Child Consultation\r\nVaccination\r\nGrowth Assessment\r\nNutrition Advice"
+                         },
+                         {
+                             "content_key":  "obgyn_title",
+                             "content_value":  "OB-GYN Services"
+                         },
+                         {
+                             "content_key":  "obgyn_description",
+                             "content_value":  "Specialized women\u0027s healthcare and maternal services"
+                         },
+                         {
+                             "content_key":  "obgyn_services",
+                             "content_value":  "Prenatal Checkups\r\nPregnancy Monitoring\r\nWomen\u0027s Health Consultation\r\nFamily Planning\r\nGynecological Examination"
+                         }
+                     ],
+    "doctors":  [
+                    {
+                        "id":  1,
+                        "name":  "Dr. Ayella C. Bernadas",
+                        "specialization":  "Pediatrician",
+                        "experience":  "12 Years",
+                        "education":  "Doctor of Medicine(M.D.) The College of Maasin, College of Medicine\r\nBachelor of Science in Nursing(B.S.N), The College of Maasin\r\nLicensed Physician\r\nBasic Life Support(BLS) Certified\r\nPediatric Emergency Care Training\r\nTraining in Child Health and Development\r\nDedicated to providing quality Healthcare for infants, children, and adolescents",
+                        "profile_description":  "More than 12 years of experience treating infants, children, and adolescents. Experienced in childhood illnesses, vaccinations, growth monitoring, and preventive healthcare.",
+                        "credibility_description":  "Extensive pediatric experience\r\nChild-friendly approach\r\nExcellent communication with parents\r\nStrong patient satisfaction record",
+                        "schedule_days":  "Monday, Tuesday, Wednesday, Thursday",
+                        "schedule_time":  "12:00 PM - 5:00 PM",
+                        "services":  "Child Checkups, Vaccinations, Growth Monitoring, Pediatric Consultations",
+                        "photo":  "doctors/doctor_1780497170_f39f38fa.jpg",
+                        "status":  "available",
+                        "created_at":  "2026-06-03 14:28:32"
+                    },
+                    {
+                        "id":  2,
+                        "name":  "Dr. Justine Belle Basas",
+                        "specialization":  "OB-GYN",
+                        "experience":  "15 Years",
+                        "education":  "Doctor of Medicine(M.D), The College of Maasin, College of Medicine\r\nBachelor of Science in Nursing(B.S.N), The College of Maasin\r\nLicensed Physician\r\nBasic Life Support (BLS) Certified\r\nAdvanced Cardiac Life Support(ACLS) Trained\r\nTraining in Material and Women\u0027s Health Care\r\nCommitted to Compassionate and evidence-based women\u0027s healthcare",
+                        "profile_description":  "Over 15 years of experience in women\u0027s healthcare. Specializes in pregnancy care, reproductive health, prenatal consultations, and gynecological examinations.",
+                        "credibility_description":  "Extensive OB-GYN expertise\r\nCompassionate patient care\r\nHigh success rate in maternal healthcare\r\nTrusted by hundreds of patients",
+                        "schedule_days":  "Tuesday, Wednesday, Thursday, Friday",
+                        "schedule_time":  "9:00 AM - 3:00 PM",
+                        "services":  "Prenatal Care, Women\u0027s Health Consultation, Pregnancy Monitoring, Gynecological Exams",
+                        "photo":  "doctors/doctor_1780491369_b800c049.jpg",
+                        "status":  "available",
+                        "created_at":  "2026-06-03 14:28:32"
+                    }
+                ],
+    "reviews":  [
+                    {
+                        "id":  4,
+                        "reviewer_name":  "Robert Tan",
+                        "rating":  5,
+                        "comment":  "Online appointment booking is very convenient and easy to use.",
+                        "review_date":  "2026-01-05",
+                        "status":  "approved",
+                        "created_at":  "2026-06-03 14:28:41"
+                    },
+                    {
+                        "id":  3,
+                        "reviewer_name":  "Ana Lopez",
+                        "rating":  5,
+                        "comment":  "The OB-GYN doctor explains everything clearly and provides outstanding care.",
+                        "review_date":  "2025-12-10",
+                        "status":  "approved",
+                        "created_at":  "2026-06-03 14:28:41"
+                    },
+                    {
+                        "id":  2,
+                        "reviewer_name":  "John Dela Cruz",
+                        "rating":  5,
+                        "comment":  "Excellent pediatric services. My child feels comfortable during every visit.",
+                        "review_date":  "2025-12-01",
+                        "status":  "approved",
+                        "created_at":  "2026-06-03 14:28:41"
+                    },
+                    {
+                        "id":  1,
+                        "reviewer_name":  "Maria Garcia",
+                        "rating":  5,
+                        "comment":  "The doctors are very professional and caring. The clinic is clean and organized.",
+                        "review_date":  "2025-11-15",
+                        "status":  "approved",
+                        "created_at":  "2026-06-03 14:28:41"
+                    }
+                ]
+}

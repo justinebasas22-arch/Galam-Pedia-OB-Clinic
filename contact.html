@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact Galam Pedia & OB Clinic for appointments, questions, and support.">
+    <title>Contact | Galam Pedia & OB Clinic</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body data-page="contact">
+    <div id="loading-screen">
+        <div class="loader">
+            <div class="loader-icon"><i class="fas fa-heartbeat"></i></div>
+            <p>Loading...</p>
+        </div>
+    </div>
+    <div id="scroll-progress"></div>
+
+    <nav class="navbar navbar-expand-lg fixed-top" id="mainNavbar">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <i class="fas fa-heartbeat brand-icon"></i>
+                <span>Galam Pedia & OB Clinic</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="doctors.html">Doctors</a></li>
+                    <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="reviews.html">Reviews</a></li>
+                    <li class="nav-item"><a class="nav-link" href="schedule.html">Schedule</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="contact.html">Contact</a></li>
+                </ul>
+                <div class="d-flex align-items-center gap-2">
+                    <button class="btn btn-theme-toggle" id="themeToggle" title="Toggle dark mode">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                    <a href="appointment.html" class="btn btn-primary btn-appointment">
+                        <i class="fas fa-calendar-check me-1"></i> Book Appointment
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <section class="page-hero">
+            <div class="container">
+                <h1 data-aos="fade-up">Contact Us</h1>
+                <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-delay="100">
+                    <ol class="breadcrumb justify-content-center">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item active">Contact</li>
+                    </ol>
+                </nav>
+            </div>
+        </section>
+
+        <section class="section-padding">
+            <div class="container">
+                <div class="row g-4">
+                    <div class="col-lg-4" data-aos="fade-right">
+                        <div class="contact-card mb-4">
+                            <div class="contact-card-icon"><i class="fas fa-map-marker-alt"></i></div>
+                            <h5>Address</h5>
+                            <p data-content-key="clinic_address">Bontoc Southern Leyte</p>
+                        </div>
+                        <div class="contact-card mb-4">
+                            <div class="contact-card-icon"><i class="fas fa-phone"></i></div>
+                            <h5>Phone</h5>
+                            <p data-content-key="clinic_phone">+63 (2) 7632-9028</p>
+                        </div>
+                        <div class="contact-card mb-4">
+                            <div class="contact-card-icon"><i class="fas fa-envelope"></i></div>
+                            <h5>Email</h5>
+                            <p data-content-key="clinic_email">galam_clinic@health.com</p>
+                        </div>
+                        <div class="contact-card mb-4 emergency">
+                            <div class="contact-card-icon"><i class="fas fa-ambulance"></i></div>
+                            <h5>Emergency</h5>
+                            <p data-content-key="clinic_emergency">+63 (2) 5212-5621</p>
+                        </div>
+                        <div class="hours-card mt-4">
+                            <h5><i class="fas fa-clock me-2"></i>Operating Hours</h5>
+                            <p data-content-key="clinic_hours">Monday - Friday: 8:00 AM - 6:00 PM<br>Saturday: 9:00 AM - 1:00 PM<br>Sunday: Closed</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-8" data-aos="fade-left">
+                        <div class="contact-form-card">
+                            <h3>Send Us a Message</h3>
+                            <form action="https://formspree.io/f/your_form_id" method="POST" class="review-form contact-form">
+                                <input type="hidden" name="_subject" value="New Website Contact Message">
+                                <input type="hidden" name="_honeypot" value="">
+                                <input type="hidden" name="_captcha" value="false">
+                                <div class="row g-3">
+                                    <div class="col-md-6">
+                                        <label class="form-label">Your Name</label>
+                                        <input type="text" name="name" class="form-control" required>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label class="form-label">Email Address</label>
+                                        <input type="email" name="email" class="form-control" required>
+                                    </div>
+                                    <div class="col-12">
+                                        <label class="form-label">Subject</label>
+                                        <input type="text" name="subject" class="form-control" required>
+                                    </div>
+                                    <div class="col-12">
+                                        <label class="form-label">Message</label>
+                                        <textarea name="message" class="form-control" rows="5" required></textarea>
+                                    </div>
+                                    <div class="col-12">
+                                        <button type="submit" class="btn btn-primary btn-lg">
+                                            <i class="fas fa-paper-plane me-2"></i>Send Message
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                            <div class="form-note mt-4">
+                                <p class="mb-1"><strong>Note:</strong> This contact form uses a static placeholder action. Replace the form action with your own Formspree or EmailJS endpoint to receive messages from GitHub Pages.</p>
+                            </div>
+                        </div>
+
+                        <div class="map-container mt-4" id="mapEmbed"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6">
+                    <div class="footer-brand">
+                        <i class="fas fa-heartbeat"></i>
+                        <span>Galam Pedia & OB Clinic</span>
+                    </div>
+                    <p class="footer-desc">Galam Pedia & Ob Clinic is a trusted medical facility dedicated to providing exceptional healthcare services for families.</p>
+                </div>
+                <div class="col-lg-2 col-md-6">
+                    <h5>Quick Links</h5>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="doctors.html">Doctors</a></li>
+                        <li><a href="services.html">Services</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5>Contact Info</h5>
+                    <ul class="footer-contact">
+                        <li><i class="fas fa-map-marker-alt"></i> Bontoc Southern Leyte</li>
+                        <li><i class="fas fa-phone"></i> +63 (2) 7632-9028</li>
+                        <li><i class="fas fa-envelope"></i> galam_clinic@health.com</li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5>Operating Hours</h5>
+                    <ul class="footer-hours">
+                        <li>Monday - Friday: 8:00 AM - 6:00 PM</li>
+                        <li>Saturday: 9:00 AM - 1:00 PM</li>
+                        <li>Sunday: Closed</li>
+                    </ul>
+                </div>
+            </div>
+            <hr class="footer-divider">
+            <div class="footer-bottom">
+                <p>&copy; 2026 Galam Pedia & OB Clinic. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <button id="backToTop" class="back-to-top" title="Back to top"><i class="fas fa-chevron-up"></i></button>
+    <a href="appointment.html" class="sticky-fab" title="Book Appointment"><i class="fas fa-calendar-plus"></i></a>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/site.js"></script>
+</body>
+</html>

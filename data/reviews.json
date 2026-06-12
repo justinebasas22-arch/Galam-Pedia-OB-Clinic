@@ -1,0 +1,38 @@
+﻿[
+    {
+        "id":  4,
+        "reviewer_name":  "Robert Tan",
+        "rating":  5,
+        "comment":  "Online appointment booking is very convenient and easy to use.",
+        "review_date":  "2026-01-05",
+        "status":  "approved",
+        "created_at":  "2026-06-03 14:28:41"
+    },
+    {
+        "id":  3,
+        "reviewer_name":  "Ana Lopez",
+        "rating":  5,
+        "comment":  "The OB-GYN doctor explains everything clearly and provides outstanding care.",
+        "review_date":  "2025-12-10",
+        "status":  "approved",
+        "created_at":  "2026-06-03 14:28:41"
+    },
+    {
+        "id":  2,
+        "reviewer_name":  "John Dela Cruz",
+        "rating":  5,
+        "comment":  "Excellent pediatric services. My child feels comfortable during every visit.",
+        "review_date":  "2025-12-01",
+        "status":  "approved",
+        "created_at":  "2026-06-03 14:28:41"
+    },
+    {
+        "id":  1,
+        "reviewer_name":  "Maria Garcia",
+        "rating":  5,
+        "comment":  "The doctors are very professional and caring. The clinic is clean and organized.",
+        "review_date":  "2025-11-15",
+        "status":  "approved",
+        "created_at":  "2026-06-03 14:28:41"
+    }
+]

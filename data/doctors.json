@@ -1,0 +1,32 @@
+﻿[
+    {
+        "id":  1,
+        "name":  "Dr. Ayella C. Bernadas",
+        "specialization":  "Pediatrician",
+        "experience":  "12 Years",
+        "education":  "Doctor of Medicine(M.D.) The College of Maasin, College of Medicine\r\nBachelor of Science in Nursing(B.S.N), The College of Maasin\r\nLicensed Physician\r\nBasic Life Support(BLS) Certified\r\nPediatric Emergency Care Training\r\nTraining in Child Health and Development\r\nDedicated to providing quality Healthcare for infants, children, and adolescents",
+        "profile_description":  "More than 12 years of experience treating infants, children, and adolescents. Experienced in childhood illnesses, vaccinations, growth monitoring, and preventive healthcare.",
+        "credibility_description":  "Extensive pediatric experience\r\nChild-friendly approach\r\nExcellent communication with parents\r\nStrong patient satisfaction record",
+        "schedule_days":  "Monday, Tuesday, Wednesday, Thursday",
+        "schedule_time":  "12:00 PM - 5:00 PM",
+        "services":  "Child Checkups, Vaccinations, Growth Monitoring, Pediatric Consultations",
+        "photo":  "doctors/doctor_1780497170_f39f38fa.jpg",
+        "status":  "available",
+        "created_at":  "2026-06-03 14:28:32"
+    },
+    {
+        "id":  2,
+        "name":  "Dr. Justine Belle Basas",
+        "specialization":  "OB-GYN",
+        "experience":  "15 Years",
+        "education":  "Doctor of Medicine(M.D), The College of Maasin, College of Medicine\r\nBachelor of Science in Nursing(B.S.N), The College of Maasin\r\nLicensed Physician\r\nBasic Life Support (BLS) Certified\r\nAdvanced Cardiac Life Support(ACLS) Trained\r\nTraining in Material and Women\u0027s Health Care\r\nCommitted to Compassionate and evidence-based women\u0027s healthcare",
+        "profile_description":  "Over 15 years of experience in women\u0027s healthcare. Specializes in pregnancy care, reproductive health, prenatal consultations, and gynecological examinations.",
+        "credibility_description":  "Extensive OB-GYN expertise\r\nCompassionate patient care\r\nHigh success rate in maternal healthcare\r\nTrusted by hundreds of patients",
+        "schedule_days":  "Tuesday, Wednesday, Thursday, Friday",
+        "schedule_time":  "9:00 AM - 3:00 PM",
+        "services":  "Prenatal Care, Women\u0027s Health Consultation, Pregnancy Monitoring, Gynecological Exams",
+        "photo":  "doctors/doctor_1780491369_b800c049.jpg",
+        "status":  "available",
+        "created_at":  "2026-06-03 14:28:32"
+    }
+]
